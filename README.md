@@ -6,7 +6,9 @@ Advanced Discord-Token-Gen proxyless/proxies with anticaptcha/2captcha API Solvi
 
 unlocked token generator. More updates will happen !
 
-Need python for this too work( download here : https://www.python.org/downloads/).
+Need python for this too work BTW
+
+Saw some kid selling it for 40$ 😂
 
 Start "run.bat".
 
