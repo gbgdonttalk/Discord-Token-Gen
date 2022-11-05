@@ -1,0 +1,16 @@
+{
+    "capmonster_key": "your capmonster api key here",
+    "invite_code": "your invite code here",
+    "threads": "1",
+    "use_proxies_y_or_n": "n",
+    "print_fails_y_or_n": "y",
+    "print_captcha_key_y_or_n": "y",
+    "print_fingerprint_y_or_n": "y",
+    "print_task_id_key_y_or_n": "y",
+    "print_email_y_or_n": "y",
+    "print_proxy_y_or_n": "n",
+    "random_letters_after_token_username_y_or_n": "n",
+    "tokens_username": "DiscordGem",
+    "tokens_password": "%1337DiscordGem!",
+    "random_username_from_names.txt_y_or_n": "n"
+}
