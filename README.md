@@ -1,5 +1,5 @@
 # Discord-Token-Gen
-Advanced Discord-Token-Gen proxyless/proxies with anticaptcha/2captcha API Solving
+Advanced Discord-Token-Gen proxyless/proxies with anticaptcha/2captcha/noaicaptcha FREE API Solving
 
 
 ⭐ This repo for a cookie
