@@ -13,7 +13,7 @@ Saw some kid selling it for 40$ 😂
 Start "run.bat".
 
 
-Working as of 11/7/22
+Working as of 12/1/22
 
 DISCLAIMER EDUCATIONAL PURPOSES ONLY. I AM NOT RESPONSIBLE FOR WHAT YOU DO WITH THIS REPO.
 
